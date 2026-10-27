@@ -2,63 +2,86 @@
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpybTJkczlrMW1oZDViZGJtN2xxM2pva3czbGIyeWZkY3BwY2U2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y93slPbDMdeXJQONHa/giphy.gif" width="250px">
 
 <p align="center">
-  Full-stack Developer | Ruby on Rails | ReactJS | Next.js | AWS
+  <b>Senior Full Stack Engineer</b> | Ruby on Rails | Elixir | Phoenix LiveView | Vue | Next.js | TypeScript | Python
 </p>
 
-<p style="font-family: 'italic_font';">
-  I'm a Full-stack Developer with over 4 years of experience building and maintaining scalable web applications. I specialize in <b>Ruby on Rails</b>, <b>ReactJS</b>, <b>Next.js</b>, and cloud technologies like <b>AWS</b>. My journey has focused on delivering high-performance applications with seamless user experiences. I'm constantly learning and eager to tackle new challenges in software development. Let's connect and collaborate on something impactful! 🚀
+I build the boring parts of the future: the automations that quietly do the work nobody wants to do twice.
+
+I'm a full-stack engineer with **4+ years of experience** who likes owning a product from idea to production. I started at Code Expedition, turning founders' ideas into working MVPs and replacing manual processes with background jobs and integrations. Since then I've worked on larger production systems with **Ruby on Rails**, **Elixir/Phoenix LiveView** and modern JavaScript frameworks.
+
+### 💼 What I'm doing now
+- 🦷 **Full Stack Engineer @ [Tandvacature.nl](https://tandvacature.nl)** (contract, remote, NL): building a dental recruitment platform and working on AI automation and the product roadmap
+- 🏢 **Software Engineer @ Devsinc**: building full-stack features for client applications with Ruby on Rails and Elixir/Phoenix LiveView
+- 🌱 Currently exploring LLM integrations and AI-driven workflow automation
+
+Turns out the hardest engineering problem is usually *"should this exist at all?"*
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/Elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails"/>
+  <img src="https://img.shields.io/badge/Phoenix-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=white" alt="Phoenix"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Hotwire-%23FFE801.svg?style=for-the-badge&logo=hotwire&logoColor=black" alt="Hotwire"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+
+### Databases, Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+### Project Management & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Asana-%23F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white" alt="Asana"/>
+  <img src="https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</p>
+
+### Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 ---
 
-## 🤝🏻 You can find me on
-<br>
-<p align="center">
+## 🤝 Let's connect
+<p>
+  <a href="https://www.linkedin.com/in/adam-saleem07/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:adamsaleem2030@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="23" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adam-saleem-18ba44238/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="23"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
----
-
-## 🚀💻 Technologies & Tools
-
-### Languages & Frameworks:
-<p align="center">
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" alt="Ruby" height="20"/>
-  <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white" alt="Rails" height="20"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white" alt="JavaScript" height="20"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" height="20"/>
-  <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=plastic&logo=react&logoColor=white" alt="ReactJS" height="20"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white" alt="Next.js" height="20"/>
-</p>
-
-### Cloud & Database Technologies:
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS" height="20"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" height="20"/>
-</p>
-
-### Project Management & CI/CD Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/Asana-%23F4A300.svg?style=plastic&logo=asana&logoColor=white" alt="Asana" height="20"/>
-  <img src="https://img.shields.io/badge/ClickUp-%2366B2A2.svg?style=plastic&logo=clickup&logoColor=white" alt="ClickUp" height="20"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white" alt="Git" height="20"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" height="20"/>
-  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white" alt="GitLab" height="20"/>
-</p>
-
-### Operating Systems:
-<p align="center">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="24">
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white" height="24">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" height="24">
-</p>
-
----
-
-Thank you for visiting my GitHub profile! 🚀 Feel free to check out my repositories to see the latest projects I'm working on. Let's build something great together! 💡
+Always up for a conversation about AI, product, or why your workflow has 14 manual steps. 📍 Riyadh, Saudi Arabia
